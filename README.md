@@ -1,2 +1,8 @@
 # Elf-PS2-Adapter
-This is a very simple adapter to use a PS/2 type keyboard on a typical 1802 "Elf" computer system.
+
+This is a very simple adapter to use a PS/2 type keyboard on a typical 1802 "Elf" computer system. It uses the Q output and an EF input (typically EF2) to interface to the keyboard. It works by using Q to both control the clock line output and to multiplex the EF line between the clock and data line for input.
+
+This can be used with the 9918 Video driver:
+
+https://github.com/dmadole/1802-Mini-9918-Video
+

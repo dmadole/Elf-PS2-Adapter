@@ -5,3 +5,4 @@ This is a very simple adapter to use a PS/2 type keyboard on a typical 1802 "Elf
 This can be used with the 9918 Video and PS/2 keyboard driver for Elf/OS:
 https://github.com/dmadole/Elfos-pstwo
 
+![PS/2 Keyboard Adapter](https://github.com/dmadole/Elf-PS2-Adapter/blob/main/photos/elf-ps2-keyboard-adapter.jpg)
